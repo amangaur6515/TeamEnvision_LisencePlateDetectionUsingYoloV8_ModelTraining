@@ -1,0 +1,2 @@
+# TeamEnvision_LisencePlateDetectionUsingYoloV8_ModelTraining
+ Training the model on roboflow dataset
